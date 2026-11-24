@@ -1,0 +1,5 @@
+material,force_N,deformation_m,principal_stress_MPa,equivalent_stress_MPa
+Structural steel,550,0.00024324,15.733,15.437
+Ti-6Al-4V,550,0.0004561,15.8,15.42
+Structural steel,1050,0.00046551,30.128,29.449
+Ti-6Al-4V,1050,0.0008707,30.173,29.438
